@@ -1,0 +1,6 @@
+.obsidian/
+workspace.json
+.DS_Store
+*.bak
+*.tmp
+*.log
