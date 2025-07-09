@@ -11,7 +11,7 @@ Tracking my progress as I watch all of the professor messer videos.
 - [x] 1.2 Networking Functions
 - [x] 1.3 Designing the Cloud 
 - [x] 1.3 Cloud Models
-- [ ] 1.4 Introduction to IP
+- [x] 1.4 Introduction to IP
 - [ ] 1.4 Common Ports
 - [ ] 1.4 Other Useful Protocols
 - [ ] 1.4 Network Communication
