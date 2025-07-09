@@ -12,12 +12,12 @@ Tracking my progress as I watch all of the professor messer videos.
 - [x] 1.3 Designing the Cloud 
 - [x] 1.3 Cloud Models
 - [x] 1.4 Introduction to IP
-- [ ] 1.4 Common Ports
-- [ ] 1.4 Other Useful Protocols
-- [ ] 1.4 Network Communication
-- [ ] 1.5 Wireless Networking
-- [ ] 1.5 Ethernet Standards 
-- [ ] 1.5 Optical Fiber
+- [x] 1.4 Common Ports
+- [x] 1.4 Other Useful Protocols
+- [x] 1.4 Network Communication
+- [x] 1.5 Wireless Networking
+- [x] 1.5 Ethernet Standards 
+- [x] 1.5 Optical Fiber
 - [ ] 1.5 Copper Cabling
 - [ ] 1.5 Network Transceivers
 - [ ] 1.5 Fiber Connectors
