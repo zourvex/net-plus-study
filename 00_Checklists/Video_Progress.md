@@ -18,10 +18,10 @@ Tracking my progress as I watch all of the professor messer videos.
 - [x] 1.5 Wireless Networking
 - [x] 1.5 Ethernet Standards 
 - [x] 1.5 Optical Fiber
-- [ ] 1.5 Copper Cabling
-- [ ] 1.5 Network Transceivers
-- [ ] 1.5 Fiber Connectors
-- [ ] 1.5 Copper Connectors
+- [x] 1.5 Copper Cabling
+- [x] 1.5 Network Transceivers
+- [x] 1.5 Fiber Connectors
+- [x] 1.5 Copper Connectors
 - [ ] 1.6 Network Topologies
 - [ ] 1.6 Network Architectures
 - [ ] 1.7 Binary Math
